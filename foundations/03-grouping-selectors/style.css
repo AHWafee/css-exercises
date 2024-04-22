@@ -1,0 +1,14 @@
+.common{
+    font-size: 28px;
+    font: Helvetica, "Times New Roman", sans-serif ;
+}
+
+.unique1{
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.unique2{
+    background-color: yellow;
+}
