@@ -7,9 +7,29 @@ img {
   height: 100px;
 }
 
+div{
+  text-align: center;
+
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 50px;
+}
+
+.header{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 10px
+}
+
+.group{
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  flex: 0 1 200px;
+  /* align-content: baseline; */
 }
 
 /* do not edit this footer */
